@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Punit Mishra</h1>
 
-<h3 align="center">Backend Developer | Learning AI/ML</h3>
+<h3 align="center">Backend Developer (Node.js) | MongoDB | Learning AI/ML
 
 ---
 
@@ -13,17 +13,21 @@
 ---
 
 ## 🛠️ Tech Stack
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Language: JavaScript
 
 ---
 
 ## 📌 Projects
-- 🛒 Nearby Basket (Grocery App)
-- 🔐 Auth System (Login/Register with JWT)
-- 📊 Admin Dashboard
+- 🛒 Nearby Basket  
+  → Grocery web app with product listing & cart system  
+
+- 🔐 Auth System  
+  → Login/Register with JWT authentication  
+
+- 📊 Admin Dashboard  
+  → Manage users & products  
 
 ---
 
